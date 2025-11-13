@@ -10,3 +10,12 @@ Practicar estructuras condicionales simples y anidadas en Java.
 4. Verifica si un número es positivo, negativo o cero.
 
 ## Ejemplo de salida
+Introduce tu edad: 20
+Puedes votar.
+Introduce dos números: 8 y 8
+Son iguales.
+Introduce un número: -4
+Es negativo.
+
+## Entrega
+Haz tus modificaciones en el archivo `Condicionales.java` y sube los cambios con `git commit` y `git push`.
